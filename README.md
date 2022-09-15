@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sajibtalukder2k16&color=dc143c)
+
 ### Hi, I'm Sajib Talukder,a student of department of CSE,KUET. 👋
 
 - 🔭 I’m currently working on my personal programming skill development.
