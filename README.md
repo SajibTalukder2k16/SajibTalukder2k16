@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sajibtalukder2k16&color=dc143c)
+![](https://komarev.com/ghpvc/?username=sajibtalukder2k16&color=#006747)
 
 ### Hi, I'm Sajib Talukder,a student of department of CSE,KUET. 👋
 
