@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajib Talukder</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<h3 align="center">A passionate researcher and developer</h3>
 
 <h4 align="center"> <img src="https://komarev.com/ghpvc/?username=sajibtalukder2k16&label=Profile%20views&color=0e75b6&style=flat" alt="sajibtalukder2k16" /> </h4>
 
