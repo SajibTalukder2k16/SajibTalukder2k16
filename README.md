@@ -38,8 +38,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajibtalukder2k16&show_icons=true&locale=en&layout=compact" alt="sajibtalukder2k16" /></p>
 </br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajibtalukder2k16&show_icons=true&locale=en" alt="sajibtalukder2k16" /></p>
-</br>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajibtalukder2k16&" alt="sajibtalukder2k16" /></p>
 </br>
