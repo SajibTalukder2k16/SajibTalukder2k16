@@ -19,15 +19,6 @@ I'm a passionate researcher and developer with a strong foundation in computer s
 
 
 
-## 🏆 GitHub Stats & Achievements
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibtalukder2k16&theme=radical" alt="GitHub Streak" />
-</div>
-
-
-
 
 ## ✉ Get In Touch
 
