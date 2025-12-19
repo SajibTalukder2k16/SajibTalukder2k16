@@ -12,7 +12,7 @@
 
 I'm a passionate researcher and engineer with a strong foundation in Computer Science and Engineering, as well as Transportation Engineering. I love exploring new technologies, solving complex problems, and contributing to innovative projects that make a difference.
 
-- 🔬 **Research Focus**: Security, ITS, V2X, Transportation,  Cyber Physical Systems, Computer Vision, Cryptography, Programming
+- 🔬 **Research Focus**: Software Engineering, Security, ITS, V2X, Transportation,  Cyber Physical Systems, Computer Vision, Cryptography, Programming
 - 💻 **Development**: Full-stack development, algorithms, and data structures
 - 🌱 **Learning**: Always exploring new technologies and methodologies
 - �� **Collaboration**: Open to exciting projects and research opportunities
