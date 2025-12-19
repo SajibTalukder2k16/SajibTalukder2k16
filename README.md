@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Sajib+Talukder!;A+Passionate+Researcher+%26+Developer;Welcome+to+my+GitHub+Profile!&center=true&size=27&width=600&height=50&vCenter=true&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app/?lines=Hello,+I'm+Sajib+Talukder!;A+Passionate+Researcher+%26+Engineer;Welcome+to+my+GitHub+Profile!&center=true&size=27&width=600&height=50&vCenter=true&pause=1000" alt="Typing SVG" />
 </div>
 
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate researcher and developer with a strong foundation in Computer Science and Engineering, as well as Transportation Engineering. I love exploring new technologies, solving complex problems, and contributing to innovative projects that make a difference.
+I'm a passionate researcher and engineer with a strong foundation in Computer Science and Engineering, as well as Transportation Engineering. I love exploring new technologies, solving complex problems, and contributing to innovative projects that make a difference.
 
 - 🔬 **Research Focus**: Security, ITS, V2X, Transportation,  Cyber Physical Systems, Computer Vision, Cryptography, Programming
 - 💻 **Development**: Full-stack development, algorithms, and data structures
