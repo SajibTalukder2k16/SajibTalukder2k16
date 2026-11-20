@@ -60,7 +60,7 @@ I'm a **PhD student in Computer Engineering at Virginia Tech** (Innovation Campu
   <a href="https://linkedin.com/in/sajibtalukder" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://scholar.google.com/citations?user=XCehHSoAAAAJ](https://scholar.google.com/citations?user=n4IsJ5IAAAAJ&hl=en)" target="_blank">
+  <a href="https://scholar.google.com/citations?user=n4IsJ5IAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/12503389/sajib-talukder" target="_blank">
